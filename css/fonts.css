@@ -1,0 +1,9 @@
+/* fonts.css - لود فونت Titr */
+@font-face {
+    font-family: 'Titr';
+    src: url('../fonts/Titr.woff2') format('woff2'),
+         url('../fonts/Titr.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
